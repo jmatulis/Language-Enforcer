@@ -1,0 +1,34 @@
+{
+  "files": {
+    ". env": [
+      {
+        "id": "3804f878-8d2a-419a-b519-e4cb503da920",
+        "line": 1,
+        "version": 19,
+        "index": 0
+      }
+    ],
+    "main.py": [
+      {
+        "id": "e670d32e-1dcb-4ad1-a9dc-6a59460a2604",
+        "line": 106,
+        "version": 5671,
+        "index": 2608
+      },
+      {
+        "id": "83a9cdf4-5ded-49d2-bbd0-4601a79b69a4",
+        "line": 131,
+        "version": 5671,
+        "index": 3492
+      }
+    ],
+    "words.txt": [
+      {
+        "id": "0fd5e7c2-c2e8-49c4-8030-0128ce243f83",
+        "line": 1,
+        "version": 91,
+        "index": 0
+      }
+    ]
+  }
+}

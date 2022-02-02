@@ -1,0 +1,7 @@
+strikes: 3
+commands:
+!help
+!add
+!setstrikes
+!restricted
+.txt files for unique servers
